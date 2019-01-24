@@ -5,7 +5,7 @@
 ## Setup
 
 ```sh
-# Install dependencies
+# Install dependencghies
 npm install
 
 # Run the botetrgh
