@@ -20,4 +20,4 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
-[ISC](LICENSE) © 2018 Sviatoslav Mankivskyi <smankivskyi@magento.com>
+[ISC](LICENSE) © 2018 Sviatoslav Mank ivskyi <smankivskyi@magento.com>
