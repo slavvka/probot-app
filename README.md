@@ -10,7 +10,7 @@ npm install
 
 # Run the botetrg
 npm start
-```4th
+```9;
 
 ## Contributing
 gh435t
