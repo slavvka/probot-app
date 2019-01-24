@@ -8,7 +8,7 @@
 # Install dependencies
 npm install
 
-# Run the bot
+# Run the botetrg
 npm start
 ```4th
 
