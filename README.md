@@ -5,7 +5,7 @@
 ## Setup
 
 ```sh
-# Install dependencghies
+# Install dependentyjcghies
 npm install
 
 # Run the botetrght6jy
