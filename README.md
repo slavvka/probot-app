@@ -8,7 +8,7 @@
 # Install dependencghies
 npm install
 
-# Run the botetrgh
+# Run the botetrght6jy
 npm start
 ```9;
 hg
