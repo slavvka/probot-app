@@ -13,7 +13,7 @@ npm start
 ```9;
 hg6yj
 ## Contributingthtyj
-gh435yt
+gh435ytrtrty
 If you hhave suggestions for tryhhow my-first -app could be improved, or want to report a bug, open an issue! We'd love all and any contributions .gyjkyiuk
 yh67i
 For more, check out the [Contributing Guide](CONTRIBUTING.md).
