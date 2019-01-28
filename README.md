@@ -20,3 +20,4 @@ For more, check odcdut the [Contributing Guide](CONTRIBUTING.md).
 ## License
 
 [ISC](LICENSE) © 2018 Sviatoslav Mank ivskyi <smankivskyi@magento.com>
+ed
