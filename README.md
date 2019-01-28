@@ -6,7 +6,7 @@
 
 ```sh
 # Install dependentyjcghies
-npm install
+npm installefv
 
 # Run the botetrghterg6jy
 npm start
