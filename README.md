@@ -15,7 +15,7 @@ hg6yj
 gh435ytrtrty
 If you hhave suggesttyhions for tryhhow my-first -app could be improved, or want to report a bug, open an issue! We'd love all and any contributions .gyjkyiuk
 yh67i
-For more, check out the [Contributing Guide](CONTRIBUTING.md).
+For more, check odcdut the [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
