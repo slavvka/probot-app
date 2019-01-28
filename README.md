@@ -13,7 +13,7 @@ npm start
 hg6yj
 ## Contributingthtwdcydfvjwec
 gh435ytrtrt546yy678ik67i
-If you hhave suggesttyhions for tryhhow my-first -app could be improved, or want to report a bug, open an issue! We'd love all and any contributions .gyjkyiuk
+If you hhave suggesttyhions for tryhhow my-first -app could be improved, or want to report a bug, open an issue! We'd love all and any contretgributions .gyjkyiuk
 yh67irtg
 For more, check odcdut the [Contributing Guide](CONTRIBUTING.md).
 
