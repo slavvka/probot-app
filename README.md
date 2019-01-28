@@ -4,7 +4,7 @@
 
 ## Setup
 
-```shtyu
+```shtyutyu
 # Install dependentyjcwdc
 wecwc
 # Run the botetrghterg6jy
