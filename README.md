@@ -17,7 +17,7 @@ If you hhave suggesttyhions for tryhhow my-first -app could be improved, or want
 yh67i
 For more, check odcdut the [Contributing Guide](CONTRIBUTING.md).
 
-## License
+## License67u
 
 [ISC](LICENSE) © 2018 Sviatoslav Mank ivskyi <smankivskyi@magento.com>
 ederg
