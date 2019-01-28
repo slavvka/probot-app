@@ -8,7 +8,7 @@
 # Install dependentyjcghies
 npm install
 
-# Run the botetrght6jy
+# Run the botetrghterg6jy
 npm start
 ```9;
 hg6yj
