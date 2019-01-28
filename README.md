@@ -6,7 +6,7 @@
 
 ```sh
 # Install dependentyjcwdc
-
+wecwc
 # Run the botetrghterg6jy
 npm start
 ```9;
