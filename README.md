@@ -8,7 +8,7 @@ erg
 # Install dependentyjcwdc
 wecwc
 # Run the botetrghterg6jy
-npm start
+npm startjk,ui
 ```9;
 hg6yj
 ## Crfontributingthtwdcydfvjwec
