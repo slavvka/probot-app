@@ -8,7 +8,7 @@
 # Install dependencies
 npm install
 
-# Run the bot
+# Run thetrgrt bot
 npm start
 ```
 
