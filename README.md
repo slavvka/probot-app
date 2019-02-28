@@ -5,7 +5,7 @@ erg
 ## Setuperg
 uik
 ```shtyutyu
-# Install dependentyjcwdc
+# Install dependentyjcwdcrth
 wecwcrth
 # Run the botetrghterg6jy
 npm startjk,ui657j
