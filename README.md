@@ -2,7 +2,7 @@
 
 > A GitHub App built with [Probot](https://probot.github.io) that A Probot app
 erg
-## Setup
+## Setuperg
 uik
 ```shtyutyu
 # Install dependentyjcwdc
