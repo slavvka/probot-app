@@ -7,7 +7,7 @@ uik
 ```shtyutyu
 # Install dependentyjcwdcrth
 wecwcrth
-# Run the botetrghterg6jy
+# Run the botetrghterg6jytyh
 npm startjk,ui657j
 ```9;rtg
 hg6yj
