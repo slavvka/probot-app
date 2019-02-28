@@ -6,7 +6,7 @@ erg
 
 ```shtyutyu
 # Install dependentyjcwdc
-wecwc
+wecwcrth
 # Run the botetrghterg6jy
 npm startjk,ui
 ```9;
