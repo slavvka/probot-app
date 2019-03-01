@@ -6,7 +6,7 @@ erg
 uik
 ```shtyutyu
 # Install dependentyjcwdcrth
-wecwcrth
+wecwcrthtyhtyh
 # Run the botetrghterg6jytyh
 npm startjk,ui657jrthrth67i67u67u
 ```9;rtg
