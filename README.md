@@ -8,7 +8,7 @@ uik
 # Install dependentyjcwdcrth
 wecwcrth
 # Run the botetrghterg6jytyh
-npm startjk,ui657jrthrth67i
+npm startjk,ui657jrthrth67i67u67u
 ```9;rtg
 hg6yjrth
 ## Crfontributingthtwdcydfrythvjwec4th
