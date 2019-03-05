@@ -9,7 +9,7 @@
 npm installrth
 
 # Run the bottryh
-npm starterg
+npm startergrytu
 ```tyjhtyhrtyhrth
 rthretg
 ## Contributingtyjtyjtyujtyj
