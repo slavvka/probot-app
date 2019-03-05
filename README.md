@@ -16,7 +16,7 @@ rthretgrth
 
 If you have suggestionsrtrth for how my-first-app could be improved, or want to report a bug, open an issue! We'd love all and any contributions.ergwef
 rth
-For more, check out the [Contributing Guide](CONTRIBUTING.md).
+For more, check out thetyj [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
