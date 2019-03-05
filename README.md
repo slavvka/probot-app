@@ -6,7 +6,7 @@
 
 ```shrthrth
 # Install dependencies
-npm install
+npm installrth
 
 # Run the bot
 npm start
