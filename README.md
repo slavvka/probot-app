@@ -10,7 +10,7 @@ npm installrth
 
 # Run the bot
 npm starterg
-```tyjhtyh
+```tyjhtyhrtyhrth
 
 ## Contributingtyjtyjtyujtyj
 
