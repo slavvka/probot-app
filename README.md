@@ -8,7 +8,7 @@
 # Install dependencies
 npm installrth
 
-# Run the bot
+# Run the bottryh
 npm starterg
 ```tyjhtyhrtyhrth
 
