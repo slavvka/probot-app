@@ -11,7 +11,7 @@ npm installrth
 # Run the bottryh
 npm startergrytu56u
 ```tyjhtyhrtyhrthyjk
-rthretgrth
+rthrretergetgrth
 ## Contributingtdegryjtyjtyujtyj
 
 If you have suggestionsrtrth for how my-first-app could be improved, or want to report a bug, open an issue! We'd love all and any contributions.ergwef
