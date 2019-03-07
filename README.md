@@ -11,3 +11,4 @@ npm installrth
 # Run the bottryhyuk
 npm startergrytu56uerg
 
+rth
