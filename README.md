@@ -8,7 +8,7 @@ tg
 # Install dependenciesrth
 npm installr56ythertg
 
-# Run the bottryhyuk
+# Run the bottryhyukr6y
 npm startergrytu56ueregrth
 yiuk
 rtherg
