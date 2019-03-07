@@ -5,7 +5,7 @@
 ## Setup
 
 ```shrthrth
-# Install dependencies
+# Install dependenciesrth
 npm installrth
 
 # Run the bottryhyuk
