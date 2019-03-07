@@ -9,7 +9,7 @@ tg
 npm installr56yth
 
 # Run the bottryhyuk
-npm startergrytu56uerg
+npm startergrytu56uergrth
 yiuk
 rth
 5y
