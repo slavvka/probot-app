@@ -21,6 +21,6 @@ For more, check out thetyj [Contributing Guide](CONTRIBUTING.md).
 ## License
 
 [ISC](LICENSE) © 2018 Sviatoslav Mankivskyi <smankivskyi@magento.com>
-rthrth
+rthrthergerg
 5tyjtyjrthrth
 thrthrth
