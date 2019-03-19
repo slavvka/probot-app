@@ -5,7 +5,7 @@
 ## Setup
 tg
 ```shrthrth
-# Install dependenciesrth
+# Install dependenciesrth67iu
 npm installr56ythertgrtyj
 
 # Run the bottryhyukr6y
