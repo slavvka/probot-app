@@ -5,7 +5,7 @@
 ## Setup
 
 ```sh
-# Install dependenciesyh
+# Install dependenciesyhfgh
 npm install
 
 # Run the botg
