@@ -10,7 +10,7 @@ npm install
 
 # Run the botg
 npm start
-```
+```uj
 
 ## Contributingrf
 
