@@ -8,7 +8,7 @@
 # Install dependencies
 npm install
 
-# Run the bot
+# Run the botg
 npm start
 ```
 
